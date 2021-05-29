@@ -97,6 +97,7 @@ Power Law Transformation or Gamma Correction(감마 보정)
   - Return of Investment (in economics)
 
 7일차
+
 Image Thresholding
   - 시각적 데이터의 단순화
   - 이미지 세그먼테이션(Image Segmentation) 가능
