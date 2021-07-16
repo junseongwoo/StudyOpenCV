@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # grayscale을 만드는 imread와 cvtColor를 비교해보고 실제로 픽셀에 차이가 있는지 확인해보기 
 
+=======
+>>>>>>> 914c77c969ffda921461299951962fc7a4f91d2c
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
