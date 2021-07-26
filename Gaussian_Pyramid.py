@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 
 img = cv2.imread('./images/lena.jpg')
 
+img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+
 Upimg = cv2.pyrUp(img)
 Downimg = cv2.pyrDown(img)
 
